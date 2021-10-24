@@ -1,0 +1,13 @@
+.footer{
+    background-color: #111111;
+    color: white;
+    padding: 40px 20px;
+    margin-top: 40px;
+}
+.footer-link{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+ul li{
+    list-style: none;
+}
