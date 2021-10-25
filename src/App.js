@@ -10,12 +10,15 @@ import Contact from './components/pages/contact/Contact';
 import EmptyPage from './components/pages/empty-page/EmptyPage';
 import Footer from './components/footer/Footer';
 import TopNav from "./components/topNav/TopNav";
+import FrontTitle from "./components/front-title/Front-Title";
+import React from "react";
 
 function App() {
     return (
         <div>
             <Router>
                 <TopNav></TopNav>
+                <FrontTitle></FrontTitle>
                 <Header></Header>
                 <Switch>
                     <Route exact path="/">
