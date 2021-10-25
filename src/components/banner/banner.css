@@ -1,0 +1,12 @@
+.banner {
+    height: 40vh;
+    background-size: contain;
+    background-repeat: repeat-x;
+    background-image: url("../../assets/image/banner-bg.jpg");
+}
+
+@media only screen and (max-width: 575px) {
+    .banner {
+        height: 20vh;
+    }
+}

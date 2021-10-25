@@ -12,6 +12,7 @@ import Footer from './components/footer/Footer';
 import TopNav from "./components/topNav/TopNav";
 import FrontTitle from "./components/front-title/Front-Title";
 import React from "react";
+import Banner from "./components/banner/Banner";
 
 function App() {
     return (
@@ -20,6 +21,7 @@ function App() {
                 <TopNav></TopNav>
                 <FrontTitle></FrontTitle>
                 <Header></Header>
+                <Banner></Banner>
                 <Switch>
                     <Route exact path="/">
                         <Home></Home>
