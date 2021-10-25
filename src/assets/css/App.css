@@ -1,0 +1,19 @@
+:root {
+    --white: #ffffff;
+    --primary: #747474;
+    --theme: #006266;
+    --drkPrimary: #4b4b4b;
+    --rgbaLhtPrimary: rgba(116, 116, 116, 0.2);
+    --borderCorner: 5px;
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-size: 16px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    color: var(--drkPrimary);
+}

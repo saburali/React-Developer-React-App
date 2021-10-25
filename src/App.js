@@ -9,11 +9,13 @@ import Faq from "./components/pages/faq/Faq";
 import Contact from './components/pages/contact/Contact';
 import EmptyPage from './components/pages/empty-page/EmptyPage';
 import Footer from './components/footer/Footer';
+import TopNav from "./components/topNav/TopNav";
 
 function App() {
     return (
         <div>
             <Router>
+                <TopNav></TopNav>
                 <Header></Header>
                 <Switch>
                     <Route exact path="/">

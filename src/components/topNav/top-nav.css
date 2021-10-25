@@ -1,0 +1,41 @@
+/**********************
+******* Top Nav *******
+**********************/
+.topNav {
+    background-color: var(--theme);
+}
+
+.topNav select {
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: var(--white);
+    border: 0;
+    background-color: transparent;
+}
+
+.topNav select:focus {
+    outline: 0;
+}
+
+.topNav select option,
+select option:first-child,
+.topNav .icon .nav-link {
+    color: var(--white);
+    background-color: var(--theme);
+    transition: 0.4s all ease-in-out;
+}
+
+.topNav .icon .nav-link {
+    padding-top: 7px;
+}
+
+.topNav .icon .nav-link:hover {
+    cursor: pointer;
+    color: var(--theme);
+    background-color: var(--white);
+    border-radius: var(--borderCorner);
+}
+
+.topNav .icon {
+    display: flex;
+}
