@@ -8,6 +8,7 @@
     --drkPrimary: #4b4b4b;
     --rgbaLhtPrimary: rgba(116, 116, 116, 0.2);
     --borderCorner: 5px;
+    --lightColor: rgba(0, 0, 0, 0.5);
 }
 
 body,
