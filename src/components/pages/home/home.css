@@ -1,0 +1,33 @@
+.home .title {
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+.home .title h2 {
+    border-left: 3px solid var(--theme);
+    padding-left: 15px;
+    position: relative;
+    display: inline-block;
+    padding-right: 15px;
+}
+
+.home .title h2::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    height: 3px;
+    width: 80%;
+    background-color: var(--theme);
+    left: 100%;
+}
+
+.home-service .col {
+    display: none;
+}
+
+.home-service .col:nth-child(1),
+.home-service .col:nth-child(2),
+.home-service .col:nth-child(3),
+.home-service .col:nth-child(4) {
+    display: block;
+}

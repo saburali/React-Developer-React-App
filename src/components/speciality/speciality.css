@@ -1,0 +1,32 @@
+.card {
+    padding-top: 100px;
+    margin-top: 115px;
+    border-top-left-radius: 30% !important;
+    border-top-right-radius: 30% !important;
+}
+
+.card img {
+    top: -80px;
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 70px;
+}
+
+.card .card-title {
+    white-space: nowrap;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-family: 'Galada', cursive;
+}
+
+.card .card-text {
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+@media only screen and (max-width: 767px) {
+    .card {
+        margin-top: 80px;
+    }
+}

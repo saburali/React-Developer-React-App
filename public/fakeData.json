@@ -1,0 +1,360 @@
+[
+  {
+    "services": [
+      {
+        "specialty": [
+          {
+            "key": "SP01",
+            "title": "এইটা কমপ্লিট ওয়েব ডেভেলপমেন্ট এর কোর্স",
+            "description": "শূন্য থেকে একজন জুনিয়র ওয়েব ডেভেলপার হিসেবে চাকরি পাওয়ার জন্য যা যা লাগে তার সবকিছুই ধরে ধরে শিখানো হয়েছে এই কোর্সে। সো, এই কোর্স ভালোভাবে ফিনিশ করলে ওয়েব ডেভেলপমেন্ট সম্পর্কে আর কোথাও কোন কোর্স না করেই ইন্টার্ন বা চাকরির চেষ্টা শুরু করে দিতে পারবে।",
+            "image": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/services/01.png"
+          },
+          {
+            "key": "SP02",
+            "title": "আনলিমিটেড সাপোর্ট",
+            "description": "কোর্স চলাকালীন সময়ে ২৪ ঘন্টার মধ্যে তোমার যেকোন প্রশ্নের উত্তর দেয়া হবে (ছুটির দিন বাদে)। পেঁচগি মার্কা কোন প্রবলেম হলে প্রতিদিন ২/৩ বার গুগল হ্যাংআউট এ এসে তোমার স্কিন শেয়ার করে প্রবলেম সলভ করা হবে। আর কোর্স শেষ হয়ে গেলে (৩মাস পরেও ) তোমাকে লুজ সাপোর্ট দেয়া হবে।",
+            "image": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/services/02.png"
+          },
+          {
+            "key": "SP03",
+            "title": "স্পেশাল ইন্টারভিউ প্রিপারেশন গ্রূপ",
+            "description": "যারা ডেইলি ডেইলি কাজ করবে। প্রতিদিন ৬ থেকে ৮ ঘন্টা সময় দিবে। জানপ্রাণ দিয়ে সিরিয়াসভাবে কোর্স নির্দিষ্ট সময়ের মধ্যে ফিনিশ করবে। তাদের নিয়ে তৈরি করা SCIC (Super Charged Interviewee Club) । এইটা ৪ থেকে ৬ সপ্তাহের স্পেশাল ট্রেনিং। যেটার জন্য আলাদা কোন ফি নাই। একটাই যোগ্যতা: সিরিয়াস হার্ডওয়ার্ক করে নিদৃস্ট সময়ের মধ্যে মেইন কোর্স ফিনিশ করা।",
+            "image": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/services/03.png"
+          },
+          {
+            "key": "SP04",
+            "title": "জব প্লেসমেন্ট কোচ",
+            "description": "যারা SCIC তে সুযোগ পাবে। এবং সেটা ঠিক মতো শেষ করবে আরো ৪ থেকে ৬ সপ্তাহ লেগে থাকবে। তাদের আরো পার্সোনালাইজড ট্রেনিং দিয়ে তাদের আমাদের জব প্লেসমেন্ট টিম তাদের সিভি/রেজুমি পাঠিয়ে দিবে বিভিন্ন কোম্পানিতে। কোম্পানি হায়ার করবে, কি করবে না: সেটা তাদের সিদ্ধান্ত। তোমার কাজ হচ্ছে লেগে থাকা আর আমাদের কাজ হচ্ছে সাপোর্ট দিয়ে সিভি পৌঁছে দেয়া। সো, যতক্ষণ পর্যন্ত তুমি লেগে আছো। আমরা আছি তোমার সাথে।",
+            "image": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/services/04.png"
+          },
+          {
+            "key": "SP05",
+            "title": "লাইভ কনচেপচুয়াল সেশন",
+            "description": "শিখতে দুই-একটা কনসেপ্ট প্রথম ধাক্কায় সবার কাছে ক্লিয়ার নাও হতে পারে। এইটা খুবই স্বাভাবিক। এইটা নিয়ে মাথার চুল ছেঁড়ার কিচ্ছু নাই। কারণ প্রত্যেক মাইলস্টোন এ একটা বা দুইটা করে লাইভ কনসেপচুয়াল সেশন থাকবে। সেখানে নতুন নতুন প্রজেক্ট এর মাধ্যমে মেইন মেইন কনসেপ্টগুলো অল ক্লিয়ার শ্যাম্পুর চাইতেও ভালো করে ক্লিয়ার করে দেয়া হবে।",
+            "image": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/services/05.png"
+          },
+          {
+            "key": "SP06",
+            "title": "Advance ক্রাশ কোর্স (ACC)",
+            "description": "প্রোগ্রামিং হিরোতে তুমি জাস্ট একটা কোর্স এ এনরোল করতেছো না। বরং লাইফ লং ওয়েব ডেভেলপমেন্ট শেখার মিশনে জয়েন করতেছো। সেজন্যই আমাদের মেইন কোর্স ফিনিশ করলে তুমি Advance ক্রাশ কোর্স (ACC) এ সুযোগ পাবে। সেখানে Node, Mongodb, Next JS ছাড়াও আরো অনেক নতুন নতুন Advance টপিক ইন ডেপ্থ শেখানো হবে। সেইসব Advance কোর্স এর জন্য বাড়তি কোন ফি দিতে হবে না। শুধু মেইন কোর্স ফিনিশ করতে হবে।",
+            "image": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/services/06.png"
+          },
+          {
+            "key": "SP07",
+            "title": "অফলাইন ভিডিও দেখার সুযোগ",
+            "description": "তোমার ব্রডব্যান্ড নাই! মোবাইল ডাটা বা এমবি কিনে ভিডিও দেখতে হয়? একই ভিডিও বারবার দেখার জন্য যেন ইন্টারনেট খরচ করা লাগে? প্যারা নেয়ার কিছু নাই। আমাদের এন্ড্রয়েড এপ এর মাধ্যমে কোর্সের ভিডিও অফলাইন সেইভ করে বারবার দেখতে পারবে। বাড়তি কোন ইন্টারনেট খরচ ছাড়াই।",
+            "image": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/services/07.png"
+          },
+          {
+            "key": "SP08",
+            "title": "ইন্টারন্যাশনাল জব প্লেসমেন্ট",
+            "description": "গ্লোবালাইজেশন এর যুগে তোমার জব প্লেসমেন্ট এর টার্গেট কেন শুধু বাংলাদেশ কেন্দ্রিক হবে? বরং দুনিয়ার যেকোন দেশে চাকরি/ইন্টার্ন পাওয়ার মতো লেভেলের হবে। সেজন্যই আমাদের SCIC এবং জব প্লেসমেন্ট টিম এর ফোকাস হচ্ছে তোমাকে দেশে বা দেশের বাইরের কোম্পানিতে ইন্টার্ন/জব এর জন্য রেডি করা। তোমার সিভি দেশে এবং দেশের কোম্পানিতে ফরওয়ার্ড করা।",
+            "image": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/services/08.png"
+          }
+        ]
+      },
+      {
+        "rules": [
+          {
+            "key": "RU01",
+            "title": "১",
+            "description": "প্রতিদিন রাত ১০.০০ এর সময় (বাংলাদেশ সময়) একটা মডিউল রিলিজ দেয়া হবে। তোমার কাজ হবে ২৪ ঘন্টার মধ্যে সব ভিডিও দেখে শেষ করে ফেলা। মোটামুটি ১.৫ থেকে ২ ঘন্টার মতো ভিডিও থাকবে।"
+          },
+          {
+            "key": "RU02",
+            "title": "২",
+            "description": "তবে শুধু ভিডিও দেখে গেলে কাজ হবে না। ভিডিও এর কোন টপিক বুঝতে না পারলে গুগল বা ইউটিউবে সার্চ দিয়ে আরো অন্য টিউটোরিয়াল দেখতে হবে। প্রত্যেক ভিডিও শেষে একাধিক প্রশ্ন থাকবে।"
+          },
+          {
+            "key": "RU03",
+            "title": "৩",
+            "description": "কোথাও না বুঝলে বা আটকে গেলে। আমাদের ফেইসবুক গরূপে প্রশ্ন করতে পারবে। তোমার যেকোন প্রশ্নের উত্তর কোর্স চলাকালীন সময়ে ২৪ ঘন্টার মধ্যে উত্তর দেয়া হবে।"
+          },
+          {
+            "key": "RU04",
+            "title": "৪",
+            "description": "কোর্স এক টানা বারো সপ্তাহ চলবে। কোন ডেটিংয়ের ব্রেক, সূর্য না উঠার ব্রেক, বা পাশের বাড়ির ট্যাংকি লিক।"
+          },
+          {
+            "key": "RU05",
+            "title": "৫",
+            "description": "যারা নিদৃস্ট সময়ের মধ্যে ডেডিকেটেডভাবে লেগে থেকে কোর্স শেষ করবে। এসাইনমেন্ট সঠিক সময়ে সাবমিট করবে তাদের থেকে SCIC এর জন্য সিলেক্ট করা হবে। SCIC এর জন্য হার্ডওয়ার্ক ছাড়া আলাদা কোন ফি নেই।"
+          },
+          {
+            "key": "RU06",
+            "title": "৬",
+            "description": "আমাদের কোর্স প্রি-রেকর্ডেড (ভিডিও আগে থেকে রেকর্ড করা থাকবে)। অর্থাৎ লাইভ ক্লাস হবে না। তাই রাত ১০.০০ এর পরে যেকোন সময়ের মধ্যে ভিডিও দেখে নিলেই চলবে। প্রতিদিন গড়ে ৬ থেকে ৮ ঘন্টা সময় দিতে হবে। মিনিমাম ৪ থেকে ৬ ঘন্টা সময় দিতেই হবে।"
+          },
+          {
+            "key": "RU07",
+            "title": "৭",
+            "description": "পাঁচ ছয়টা মডিউল পরে। যখন এসাইনমেন্ট থাকবে তখন এসাইনমেন্ট এর সাইজ অনুসারে তোমাকে এক দিন, দুই দিন বা তিন দিন সময় দেয়া হবে। এসাইনমেন্ট সঠিক সময়ে জমা দিলে ৬০ মার্কস। একদিন দেরি করলে ৫০ মার্কস। তার চাইতেও বেশি সময় নিলে ৩০ মার্কস।"
+          },
+          {
+            "key": "RU08",
+            "title": "৮",
+            "description": "দরকার হলে মাঝে মধ্যে ফেইসবুক গরূপে লাইভ এসে প্রশ্নের উত্তর বা কনসেপ্ট ব্যাখ্যা করা হবে। প্রয়োজনে কোর্সের মধ্যে নতুন মডিউল যোগ করা হবে। যাতে তুমি পরিপূর্ন ওয়েব ডেভেলপার হয়ে উঠো এই একটা মাত্র কোর্স থেকে।"
+          }
+        ]
+      }
+    ],
+    "about": [
+      {
+        "sort-info": "আমরা প্রোগ্রামিং হিরো হতে পারি বা না পারি, আমাদের উদ্দেশ্য হচ্ছে যারা সিরিয়াসলি প্রোগ্রামিং হিরো হতে চায় তাদের হেল্প করা। তাদের লার্নিং প্রসেসকে এঞ্জয়েবল এবং এফেক্টিভ করে তোলা। এই প্রচেষ্টায় আমরা নিত্য নতুন জিনিস শিখছি, চেষ্টা করছি।"
+      },
+      {
+        "more-about": [
+          {
+            "key": "A01",
+            "name": "Jhankar Mahbub",
+            "position": "CEO & Founder",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/01.png"
+          },
+          {
+            "key": "A02",
+            "name": "Rasel Ahmed",
+            "position": "Product Manager",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/02.jpg"
+          },
+          {
+            "key": "A03",
+            "name": "Karina Islam",
+            "position": "Advisor",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/03.jpg"
+          },
+          {
+            "key": "A04",
+            "name": "Shajedul Karim",
+            "position": "Chief Operating Officer",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/04.jpg"
+          },
+          {
+            "key": "A05",
+            "name": "Sufi Ahmed Hamim",
+            "position": "Product Designer",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/05.jpg"
+          },
+          {
+            "key": "A06",
+            "name": "Rezaul Karim",
+            "position": "Product Designer",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/06.jpg"
+          },
+          {
+            "key": "A07",
+            "name": "Mohammad Anwar",
+            "position": "Senior Software Developer",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/07.jpg"
+          },
+          {
+            "key": "A08",
+            "name": "Mujahidul Islam",
+            "position": "Content Editor",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/08.jpg"
+          },
+          {
+            "key": "A09",
+            "name": "Tanvir Islam",
+            "position": "Software Engineer",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/09.jpg"
+          },
+          {
+            "key": "A10",
+            "name": "Solaiman Shadin",
+            "position": "Web Developer",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/10.jpg"
+          },
+          {
+            "key": "A11",
+            "name": "Sadia Sultana Kumu",
+            "position": "Web Developer",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/11.jpg"
+          },
+          {
+            "key": "A12",
+            "name": "Manik Roy",
+            "position": "Web Developer",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/12.jpg"
+          },
+          {
+            "key": "A13",
+            "name": "Shrikanta Mazumder",
+            "position": "Jr. Software developer",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/13.jpg"
+          },
+          {
+            "key": "A14",
+            "name": "Md. Rashad Tanjim",
+            "position": "Jr. Software developer",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/14.jpg"
+          },
+          {
+            "key": "A15",
+            "name": "Afsara Tasnim Lamia",
+            "position": "SQA Engineer",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/15.jpg"
+          },
+          {
+            "key": "A16",
+            "name": "Faiza Feroz",
+            "position": "SQA Engineer",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/16.jpg"
+          },
+          {
+            "key": "A17",
+            "name": "Tanvir Islam",
+            "position": "ACC Mentor",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/17.jpg"
+          },
+          {
+            "key": "A18",
+            "name": "Israfil Hossen",
+            "position": "Web Developer (Support Instructor)",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/18.jpg"
+          },
+          {
+            "key": "A19",
+            "name": "Najmus Sakib",
+            "position": "Web Developer (Support Instructor)",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/19.jpg"
+          },
+          {
+            "key": "A20",
+            "name": "Muktadir Hassan",
+            "position": "Web Developer (Support Instructor)",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/20.jpg"
+          }
+        ]
+      }
+    ],
+    "success-story": [
+      {
+        "sort-info": "আমাদের কোর্স থেকে শিখে যারা বিভিন্ন জায়গায় চাকরি/ইন্টার্ন পেয়েছে তাদের মধ্যে কয়েকজন এর প্রোফাইল নিচে দেয়া হলো"
+      },
+      {
+        "main-story": [
+          {
+            "key": "S01",
+            "name": "Md.Abu Hanif",
+            "batch": "03",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/success-story/01.jpg",
+            "description": "I am a very hard-working person but I could not find the right path to success, programming-hero has guided me on the right path with utmost care. Their education system is so beautiful that it cannot be expressed in words. The programming-hero has awakened the latent talents in me. Programming-hero has made me a skilled and courageous student. I am forever grateful to programming-hero",
+            "specialist": [
+              {
+                "one": "Full-Stack Web Developer"
+              },
+              {
+                "two": "Ajax Business Solutions"
+              }
+            ]
+          },
+          {
+            "key": "S02",
+            "name": "Shariful Pradhan Hridoy",
+            "batch": "03",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/success-story/02.jpg",
+            "description": "কোর্স কিন্তু ভাই অনেক আছে। কিন্তু আমি মনে করি এই কোর্সের মত কোন কোর্স বাংলাদেশে না কখনও ছিল, না আর কেউ কখনও করতে পারবে। সময়কে কিভাবে সঠিকভাবে কাজে লাগিয়ে একদম শূন্য থেকে কিভাবে হিরু হওয়া যায় তা আমি এই কোর্স থেকে শিখেছি। সাড়ে তিনমাসের এই কোর্সে প্রতিদিন রাত ১০ টায় মডিউল রিলিজ হওয়া, নির্দেশনা দিয়ে ফেসবুকে পোস্ট দিতে কখনও ১ মিনিটও লেট হতে দেখি নাই। আর এর জন্যই এই কোর্সটা এতটাই গোছানো যে যদি আপনি শুধু আমাদের মেন্টরকে অনুসরণ করে পুরো কোর্সটা শেষ করেন আপনার নিজের অজান্তেই আপনি একজন ওয়েব ডেপলার হয়ে উঠবেন। ওয়েব ডেপলিংয়ের কিছুই না জানা আমি এখন পুরো একটা ফাংশনাল ওয়েবসাইট বানিয়ে ফেলতে পারাটা কোন ব্যপারই মনে হয় না। সুতরাং আপনি যদি সত্যিই একজন ওয়েব ডেপলার হতে চান এই কোর্সটাই হোক আপনার সেই জার্নির শুরু",
+            "specialist": [
+              {
+                "one": "React Developer Intern"
+              },
+              {
+                "two": "KyFlex"
+              }
+            ]
+          },
+          {
+            "key": "S03",
+            "name": "Mehedi Hasan",
+            "batch": "03",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/success-story/03.jpg",
+            "description": "I will always be thankful to the programming hero team. Their guideline, support, motivation, especially the process of their mentoring system outstanding.",
+            "specialist": [
+              {
+                "one": "Frontend Web Developer"
+              },
+              {
+                "two": "Mistri Solutions"
+              }
+            ]
+          },
+          {
+            "key": "S04",
+            "name": "Wreet Sarker",
+            "batch": "03",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/success-story/04.jpg",
+            "description": "I am from a different engineering background. The overall course structure of Programming Hero is pretty well organized. Working on various projects as assignments helped solidify the knowledge of the new topics that I learnt here. Would highly recommend this course.",
+            "specialist": [
+              {
+                "one": "Software Engineer Intern"
+              },
+              {
+                "two": "Pioneer Alpha"
+              }
+            ]
+          },
+          {
+            "key": "S05",
+            "name": "Minhaj Sadik",
+            "batch": "03",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/success-story/05.jpg",
+            "description": "Thanks a Lot to the Programming Hero Team, because they are also a fun and personalized platform. in this day, my dream is also full fill.",
+            "specialist": [
+              {
+                "one": "Full Stack Software Engineer"
+              },
+              {
+                "two": "Genius IT Solution"
+              }
+            ]
+          },
+          {
+            "key": "S06",
+            "name": "Yeain Hossain",
+            "batch": "03",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/success-story/06.jpg",
+            "description": "Thank you programming hero",
+            "specialist": [
+              {
+                "one": "Android Developer(react native)"
+              },
+              {
+                "two": "Softify Digital"
+              }
+            ]
+          },
+          {
+            "key": "S07",
+            "name": "Md. Al-Amin Howlader",
+            "batch": "03",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/success-story/07.jpg",
+            "description": "প্রোগ্রামিং হিরো সম্পর্কে কিছু না বললেই নয়। এইরকম একটা লার্নিং এনভারনমেন্ট অন্য কোথাও আছে কিনা বলতে পারছি না। এক কথায় জীবনকে বদলে দেওয়ার মত একটা প্লাটফর্ম। এখানে না আসলে হয়ত জীবনে অনেক কিছু মিস করতাম। ঝংকার ভাইয়ের মত একজন মেন্টর পেয়ে নিজেকে ভাগ্যবান মনে করছি। আমি প্রোগ্রামিং হিরোর কাছে আজীবন কৃতজ্ঞ থাকব এইরকম একটা কোর্স উপহার দেওয়ার জন্য। কোর্সটিতে ঝংকার ভাইয়ের পাশাপাশি অন্যান্য টিম মেম্বাররাও অনেক পরিশ্রম করেছে। তারা যেই পরিমান সাপোর্ট দিয়েছে সত্যিই অসাধারন ছিল। আমি দোয়া করি যেন প্রোগ্রামিং হিরো আরো অনেক দূর এগিয়ে যাক। দেশের বেকার সমস্যা সমাধানের ক্ষেত্রে আরো বেশি ভুমিকা পালন করুক",
+            "specialist": [
+              {
+                "one": "Web Developer (Support Instructor)"
+              },
+              {
+                "two": "Programming Hero"
+              }
+            ]
+          },
+          {
+            "key": "S08",
+            "name": "Iftekharul Islam",
+            "batch": "03",
+            "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/success-story/08.jpg",
+            "description": "অসাধারন একটা জার্নি ছিলো। অসাধারন কোর্স ম্যাটেরিয়াল, কোর্স প্ল্যান, তাদের সহযোগীতা পরিশ্রম আর মেইনলি আল্লাহর রহমত এ এতদুর আসতে পেরেছি। আলহামদুলিল্লাহ",
+            "specialist": [
+              {
+                "one": "Front End Developer Intern (React)"
+              },
+              {
+                "two": "Perspectify"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

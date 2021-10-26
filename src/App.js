@@ -11,12 +11,12 @@ import EmptyPage from './components/pages/empty-page/EmptyPage';
 import Footer from './components/footer/Footer';
 import TopNav from "./components/topNav/TopNav";
 import FrontTitle from "./components/front-title/Front-Title";
-import React from "react";
 import Banner from "./components/banner/Banner";
 
 function App() {
+
     return (
-        <div>
+        <div className="App">
             <Router>
                 <TopNav></TopNav>
                 <FrontTitle></FrontTitle>
