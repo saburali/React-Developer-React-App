@@ -21,7 +21,8 @@
     left: 100%;
 }
 
-.home-service .col {
+.home-service .col,
+.home-service .nav-tabs {
     display: none;
 }
 
