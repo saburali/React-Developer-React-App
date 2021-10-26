@@ -1,0 +1,17 @@
+.about h3 {
+    font-size: 22px;
+    text-align: center;
+    font-family: var(--banglaDesFont);
+}
+
+.about .card {
+    padding-top: 70px;
+    text-align: center;
+}
+
+.about .card .card-text {
+    white-space: nowrap;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

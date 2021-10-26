@@ -1,0 +1,122 @@
+[
+  {
+    "key": "A01",
+    "name": "Jhankar Mahbub",
+    "position": "CEO & Founder",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/01.png"
+  },
+  {
+    "key": "A02",
+    "name": "Rasel Ahmed",
+    "position": "Product Manager",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/02.png"
+  },
+  {
+    "key": "A03",
+    "name": "Karina Islam",
+    "position": "Advisor",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/03.png"
+  },
+  {
+    "key": "A04",
+    "name": "Shajedul Karim",
+    "position": "Chief Operating Officer",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/04.png"
+  },
+  {
+    "key": "A05",
+    "name": "Sufi Ahmed Hamim",
+    "position": "Product Designer",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/05.png"
+  },
+  {
+    "key": "A06",
+    "name": "Rezaul Karim",
+    "position": "Product Designer",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/06.png"
+  },
+  {
+    "key": "A07",
+    "name": "Mohammad Anwar",
+    "position": "Senior Software Developer",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/07.png"
+  },
+  {
+    "key": "A08",
+    "name": "Mujahidul Islam",
+    "position": "Content Editor",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/08.png"
+  },
+  {
+    "key": "A09",
+    "name": "Tanvir Islam",
+    "position": "Software Engineer",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/09.png"
+  },
+  {
+    "key": "A10",
+    "name": "Solaiman Shadin",
+    "position": "Web Developer",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/10.png"
+  },
+  {
+    "key": "A11",
+    "name": "Sadia Sultana Kumu",
+    "position": "Web Developer",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/11.png"
+  },
+  {
+    "key": "A12",
+    "name": "Manik Roy",
+    "position": "Web Developer",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/12.png"
+  },
+  {
+    "key": "A13",
+    "name": "Shrikanta Mazumder",
+    "position": "Jr. Software developer",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/13.png"
+  },
+  {
+    "key": "A14",
+    "name": "Md. Rashad Tanjim",
+    "position": "Jr. Software developer",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/14.png"
+  },
+  {
+    "key": "A15",
+    "name": "Afsara Tasnim Lamia",
+    "position": "SQA Engineer",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/15.png"
+  },
+  {
+    "key": "A16",
+    "name": "Faiza Feroz",
+    "position": "SQA Engineer",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/16.png"
+  },
+  {
+    "key": "A17",
+    "name": "Tanvir Islam",
+    "position": "ACC Mentor",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/17.png"
+  },
+  {
+    "key": "A18",
+    "name": "Israfil Hossen",
+    "position": "Web Developer (Support Instructor)",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/18.png"
+  },
+  {
+    "key": "A19",
+    "name": "Najmus Sakib",
+    "position": "Web Developer (Support Instructor)",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/19.png"
+  },
+  {
+    "key": "A20",
+    "name": "Muktadir Hassan",
+    "position": "Web Developer (Support Instructor)",
+    "photo": "https://pro-img.saburali.me/programming-hero/become-a-react-developer/about-us/20.png"
+  }
+]
