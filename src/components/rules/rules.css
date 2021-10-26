@@ -7,6 +7,7 @@
 
 .rules .title {
     font-size: 75px;
+    color: var(--theme);
     font-family: 'Galada', cursive;
 
 }

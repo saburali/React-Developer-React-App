@@ -10,7 +10,8 @@
     position: absolute;
     height: 150px;
     width: 150px;
-    left: 70px;
+    left: 48%;
+    transform: translateX(-50%);
 }
 
 .card .card-title {

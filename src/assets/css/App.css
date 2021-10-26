@@ -23,3 +23,7 @@ html {
     color: var(--drkPrimary);
     font-family: 'Source Sans Pro', sans-serif;
 }
+
+.themeLetter:first-letter {
+    color: var(--theme);
+}
